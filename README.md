@@ -1,2 +1,2 @@
 # java_data
-En este repositorio vereis varias formas de usar el tiempo (Horas, meses, años, etc).
+In this repository you will see several ways to use time (Hours, months, years, etc).
